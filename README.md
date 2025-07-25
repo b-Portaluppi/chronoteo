@@ -23,3 +23,4 @@ Sistema de agenda pessoal desenvolvido com **Next.js**, **Firebase** e **NextAut
 - [NextAuth.js](https://next-auth.js.org/)
 - [React Calendar](https://www.npmjs.com/package/react-calendar)
 
+Link projeto: https://chronoteo.vercel.app/
